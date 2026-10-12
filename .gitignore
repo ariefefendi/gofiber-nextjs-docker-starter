@@ -1,0 +1,6 @@
+# Rahasia lokal
+.env
+
+# OS
+.DS_Store
+Thumbs.db

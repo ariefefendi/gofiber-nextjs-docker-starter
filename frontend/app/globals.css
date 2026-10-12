@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Padanan .permission-disabled di head.css (versi Gin) */
+.permission-disabled {
+  cursor: not-allowed !important;
+  opacity: 0.5;
+}
+.permission-disabled:hover {
+  opacity: 1;
+  color: #dc2626 !important;
+}
